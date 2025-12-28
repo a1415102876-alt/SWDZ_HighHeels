@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighHeels", "HighHeels.csproj", "{31F67B29-EB26-4268-96B0-653D3415147D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F67B29-EB26-4268-96B0-653D3415147D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F67B29-EB26-4268-96B0-653D3415147D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F67B29-EB26-4268-96B0-653D3415147D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F67B29-EB26-4268-96B0-653D3415147D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B28810-D36B-4473-A6BD-6835811B3AD9}
+	EndGlobalSection
+EndGlobal
