@@ -46,6 +46,9 @@
     <Reference Include="UnityEngine.InputLegacyModule">
       <HintPath>..\..\Illgames\Aicomi\BepInEx\interop-Aicomi\interop\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\Illgames\Aicomi\BepInEx\interop-Aicomi\interop\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.TextRenderingModule">
       <HintPath>..\..\Illgames\Aicomi\BepInEx\interop-Aicomi\interop\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
