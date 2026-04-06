@@ -1,6 +1,6 @@
 # Swdz Highheels
 
-[English](./README.md) | [简体中文](./Readme.zh-CN.md) | 日本語
+[English](./Readme.md) | [简体中文](./Readme.zh-CN.md) | 日本語
 
 **Aicomi / Samabake / Honeycome（IL2CPP + BepInEx 6）** 向けの、ハイヒール調整＆ポーズ補正プラグインです。  
 靴ごとに「身長（高さ）/ 足首角度 / つま先角度」を自動適用でき、さらに **ポーズ（アニメ）や靴ごと** に独立したポーズプリセットを保存できます。
