@@ -17,8 +17,8 @@
 
 ## 安装
 
-1. 将插件 DLL 放入游戏目录：  
-   `BepInEx/plugins/`
+1. 将解压后的BepinEx文件夹直接复制到游戏根目录。你应该能在下面路径找到插件dll 
+   `BepInEx/plugins/SwdzHighheels`
 2. 启动游戏一次，插件会自动生成配置目录：  
    `BepInEx/plugins/SwdzHighheels/config/`
 
