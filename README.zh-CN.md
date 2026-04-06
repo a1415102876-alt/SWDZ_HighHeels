@@ -1,5 +1,7 @@
 # Swdz Highheels
+
 [English](./README.md) | 简体中文 | [日本語](./README.ja.md)
+
 一个用于 **Aicomi/Samabake/Honeycome(IL2CPP + BepInEx 6)** 的高跟鞋与姿势补正插件。  
 支持按鞋子自动应用高度/脚踝/脚趾参数，并可在不同姿势和不同鞋子下保存独立姿势预设。
 
